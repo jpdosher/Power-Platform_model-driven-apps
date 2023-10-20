@@ -5,7 +5,7 @@ Model-driven apps in Power Platform are apps that are built by adding components
 App to control Assets Alocation to empoyees, with Business processes and a Flow for Approvals
 
 
-## File Tree:
+**File Tree:**
 
 - customizations.xml
 - solution.xml
