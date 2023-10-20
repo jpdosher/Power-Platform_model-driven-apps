@@ -13,7 +13,6 @@ App to control Assets Alocation to empoyees, with Business processes and a Flow 
 - Formulas
    - jpd_alocacaodeativo-FormulaDefinitions.yaml
    - jpd_oprocessodealocaodeativo-bpf_duration.xaml
--        
 - WebResources
    - jpd_check_icon22B75A40-0F58-EE11-BE6E-6045BD3B2479
 - Workflows
