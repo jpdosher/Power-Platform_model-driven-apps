@@ -2,7 +2,7 @@
 Model-driven apps in Power Platform are apps that are built by adding components such as forms, views, charts, and dashboards to tables using an app designer tool, without requiring much coding
 
 ## Asset Management
-App to control Assets Alocation to empoyees, with Business processes and a Flow for Approvals
+App to control Assets Alocation to empoyees, with Business processes, Flow for Approvals and Status update and an embedded Power BI Report
 
 
 **File Tree:**
