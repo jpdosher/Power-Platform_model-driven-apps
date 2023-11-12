@@ -21,6 +21,6 @@ App to control Assets Alocation to empoyees, with Business processes, Flow for A
      - Foradapoltica-E92B6EF5-6658-EE11-BE6E-6045BD3B2479.xaml
      - ProcessodeAlocaodeAtivo-236714F2-FC59-EE11-8DF0-6045BD3B2479.xaml
 
-##Filter Grid##
+## Filter Grid
 Implementation of grid Filtering using Event Handlers and code, check the in article in [medium](https://medium.com/@jean.dosher/how-to-filter-subgrid-in-a-model-driven-app-using-code-e9bca0e6562f)
         
